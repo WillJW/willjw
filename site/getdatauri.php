@@ -3,6 +3,7 @@
 
 <head>
     <title>Image to Data URI converter | GetDataURI.com</title>
+    <meta charset="utf8">
     <style>
         /* Custom fonts */
         @import url('https://fonts.googleapis.com/css?family=Trochut:700');

@@ -3,6 +3,7 @@
 
 <head>
     <title>Portfolio of Will J Woodward</title>
+    <meta charset="utf8">
     <style>
         /* Custom fonts */
         @import url('https://fonts.googleapis.com/css?family=Delius+Swash+Caps');
